@@ -36,15 +36,23 @@
 
 
 ## 🔍 !Login!
+### Usuario: admin
+### Contraseña: admin
+
 <![Login](https://github.com/arcan16/hotel-alura/blob/618d71d0eaca8c2c84b177d8fb22abc343d0fcf2/imgR/login.gif)>
 
 ## 🔍 !Registro de reservacion!
 
+<![Login](https://github.com/arcan16/hotel-alura/blob/412019ee578a026b65a186f09f0df50dc8a3f89b/imgR/registro.gif)>
+
 ## 🔍 !Busqueda vacia y edicion de registro!
+
+<![Login](https://github.com/arcan16/hotel-alura/blob/412019ee578a026b65a186f09f0df50dc8a3f89b/imgR/busqueda_vacia_edicion.gif)>
 
 ## 🔍 !Busqueda con parametros y edicion de registro!
 
+<![Login](https://github.com/arcan16/hotel-alura/blob/412019ee578a026b65a186f09f0df50dc8a3f89b/imgR/edicion_busqueda.gif)>
+
 ## 🔍 !Busqueda con parametros y eliminacion de registro!
 
-
-
+<![Login](https://github.com/arcan16/hotel-alura/blob/412019ee578a026b65a186f09f0df50dc8a3f89b/imgR/eliminar.gif)>
