@@ -35,4 +35,16 @@
 ## 🔍 !Base de datos Diagrama Entidad-relacion!
 
 
+## 🔍 !Login!
+<![Login](https://github.com/arcan16/hotel-alura/blob/618d71d0eaca8c2c84b177d8fb22abc343d0fcf2/imgR/login.gif)>
+
+## 🔍 !Registro de reservacion!
+
+## 🔍 !Busqueda vacia y edicion de registro!
+
+## 🔍 !Busqueda con parametros y edicion de registro!
+
+## 🔍 !Busqueda con parametros y eliminacion de registro!
+
+
 
