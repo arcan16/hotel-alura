@@ -34,6 +34,7 @@
 
 ## 🔍 !Base de datos Diagrama Entidad-relacion!
 
+![Login](https://github.com/arcan16/hotel-alura/blob/71af18e5bebcfb2973a1a48c8730acfe42b2d348/imgR/entidad-relacion-hotel-alura.png)
 
 ## 🔍 !Login!
 ### Usuario: admin
